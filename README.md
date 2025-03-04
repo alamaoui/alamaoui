@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi there, I'm Abderrahmane Lamaoui! 👋
 
-<!--
-**alamaoui/alamaoui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=00FF00&center=true&vCenter=true&width=500&lines=System+Programmer+in+the+Making;C+%7C+C%2B%2B+%7C+Shell;Building+a+Web+Server..." alt="Typing SVG" />
+</p>
 
-Here are some ideas to get you started:
+## 💻 About Me
+I'm a programming enthusiast and student at **1337 Benguerir**, part of **UM6P Benguerir**. I enjoy problem-solving and diving deep into system programming.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Skills & Technologies
+- **Languages:** C, C++
+- **Shell Commands & Scripting**
+- **Version Control:** Git & GitHub
+
+## 🔭 Current Projects
+I'm currently working on:
+- **Webserv Project** – A web server implementation in C++
+- Strengthening my knowledge of system programming and networking
+
+## 📫 Connect with Me
+- **LinkedIn:** [Abderrahmane Lamaoui](https://www.linkedin.com/in/abderrahmane-lamaoui-10b5a430a)
+- **LeetCode:** [GrmlX](https://leetcode.com/u/GrmlX/)
+
+Let's code something awesome! 🚀
