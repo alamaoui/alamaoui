@@ -14,7 +14,7 @@ I'm a programming enthusiast and student at **1337 Benguerir**, part of **UM6P B
 
 ## 🔭 Current Projects
 I'm currently working on:
-- Inception
+- ft_transcendence
 
 ## 📫 Connect with Me
 - **LinkedIn:** [Abderrahmane Lamaoui](https://www.linkedin.com/in/abderrahmane-lamaoui-10b5a430a)
