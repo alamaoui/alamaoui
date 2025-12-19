@@ -18,6 +18,5 @@ I'm currently working on:
 
 ## 📫 Connect with Me
 - **LinkedIn:** [Abderrahmane Lamaoui](https://www.linkedin.com/in/abderrahmane-lamaoui-10b5a430a)
-- **LeetCode:** [GrmlX](https://leetcode.com/u/GrmlX/)
 
 Let's code something awesome! 🚀
