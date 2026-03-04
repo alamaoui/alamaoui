@@ -29,64 +29,6 @@ const abderrahmane = {
 };
 ```
 
-## 💼 Featured Work
-
-<table>
-<tr>
-<td width="50%">
-
-### 🏥 MedBook
-**Healthcare Appointment Platform**
-
-Built with a team of 5 developers
-
-**Stack:** NestJS • Next.js • PostgreSQL • Docker
-
-- 🔐 Multi-layer auth (JWT + 2FA + OAuth)
-- 📊 Complex relational data modeling
-- 🐳 Fully containerized microservices
-- 🔄 Real-time booking system
-
-</td>
-<td width="50%">
-
-### 🌐 Webserv
-**Custom HTTP Server in C++**
-
-Team of 3 developers following RFC specifications
-
-**Tech:** C++ • Socket Programming • I/O Multiplexing
-
-- ⚡ Non-blocking event-driven architecture
-- 🔄 Poll/epoll implementation
-- 📜 CGI support (PHP, Python)
-- 🎯 Handles concurrent connections
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### 🐳 Inception
-**Multi-Service Infrastructure**
-
-DevOps orchestration project
-
-**Tools:** Docker • NGINX • MariaDB • WordPress
-
-- 🔧 Custom Dockerfiles & compose
-- 🌐 Reverse proxy configuration
-- 📦 Isolated container networking
-- ⚙️ Automated builds with Makefiles
-
-</td>
-<td width="50%">
-
-</td>
-</tr>
-</table>
-
 ## 🛠️ Tech Arsenal
 
 <div align="center">
