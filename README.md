@@ -7,7 +7,7 @@ Marrakech, Morocco · Open to remote & on-site
 
 I build complete web applications — from backend architecture and auth systems to frontend pages and Docker infrastructure. Currently in my third year at 1337, one of the few engineering schools where you either ship working code or repeat the project.
 
-My latest project is **[MedBook](https://medbook.duckdns.org)** — a live AI-powered medical appointment platform I co-built with a team of 5. I handled the system architecture, the full auth system (JWT, OAuth, 2FA, RBAC), user management, and the entire Docker/NGINX/Let's Encrypt infrastructure.
+My latest project is **[MedBook](https://medbook.dev)** — a live AI-powered medical appointment platform I co-built with a team of 5. I handled the system architecture, the full auth system (JWT, OAuth, 2FA, RBAC), user management, and the entire Docker/NGINX/Let's Encrypt infrastructure.
 
 ---
 
